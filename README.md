@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Sneha Butani] 👋
 
-<!--
-**SnehaButani14/SnehaButani14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Full Stack Development & Data Engineering  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Next.js, Prisma
+- Python, SQL (ETL)
+- Machine Learning
+- Flutter
+- C, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔹 Olist Data Pipeline – ETL using Python & SQL  
+- 🔹 Cardio Prediction System – Machine Learning model  
+- 🔹 Service Request Management System – Next.js + Prisma  
+
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/sneha-butani-30928a2a8]
