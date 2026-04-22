@@ -13,7 +13,7 @@
 ## 📌 Projects
 - 🔹 Olist Data Pipeline – ETL using Python & SQL  
 - 🔹 Cardio Prediction System – Machine Learning model  
-- 🔹 Service Request Management System – Next.js + Prisma  
+- 🔹 Service Request Management System[SRMS] – Next.js + Prisma  
 
 ## 📫 Connect with me
 - LinkedIn: [https://www.linkedin.com/in/sneha-butani-30928a2a8]
