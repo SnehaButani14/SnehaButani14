@@ -1,4 +1,4 @@
-# Hi, I'm [Sneha Butani] 👋
+# Hi, I'm Sneha Butani 👋
 
 🎓 Computer Science Student  
 💻 Interested in Full Stack Development & Data Engineering  
