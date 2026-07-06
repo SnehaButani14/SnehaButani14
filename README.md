@@ -12,7 +12,6 @@
 * 🤖 Developed Machine Learning projects for predictive analysis
 * 📊 Built ETL pipelines using Python & SQL for data processing
 * 📱 Developed Flutter applications with API integration and local storage
-* 🌱 Currently exploring AI-native development workflows and modern backend systems
 
 ---
 
