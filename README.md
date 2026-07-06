@@ -4,7 +4,7 @@
 
 🎓 Computer Science Student  
 
-💻 Backend • Full Stack • AI-Assisted Development
+💻 Backend • Full Stack 
 
 🚀 Building practical applications using Python, Flask, SQL, Machine Learning, and modern web technologies.
 
